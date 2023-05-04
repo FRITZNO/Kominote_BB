@@ -1,1 +1,0 @@
-var json_BiwoIKMRiral_3 = {"type":"FeatureCollection","name":"BiwoIKMRiral_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nom":"Biwo IKM riral","Lat":18.80406,"Long":-72.96663,"Alt":447.74},"geometry":{"type":"Point","coordinates":[-72.9666334,18.8040577]}}]}
